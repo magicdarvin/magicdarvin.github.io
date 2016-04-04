@@ -10,6 +10,18 @@ layout: default
 
           <div class="post-content" itemprop="articleBody">
             {{ post.content }}
+            <div class="gallery">
+            {% for image in site.static_files %}
+                {% if image.path contains post.thumbfolder %}
+
+                <div class="gallery-sizer"></div>
+                  <div class="gallery-item" style="margin-bottom: 10px; background:yellow;">
+                    <img src="{{ site.baseurl }}{{ image.path }}" data-original-src="{{ site.baseurl }}{{ image.path | replace: 'thumb', 'full' }}">
+</a>
+                  </div>
+                {% endif %}
+            {% endfor %}
+            </div>
           </div>
 
       </li>

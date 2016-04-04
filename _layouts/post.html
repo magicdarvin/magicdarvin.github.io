@@ -6,9 +6,19 @@ layout: default
   <header class="post-link">
   {{ page.title }}
   </header>
-
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-  </div>
+  <div class="gallery">
+  {% for image in site.static_files %}
+      {% if image.path contains page.thumbfolder %}
 
+      <div class="gallery-sizer"></div>
+        <div class="gallery-item" style="margin-bottom: 10px; background:yellow;">
+          <img src="{{ site.baseurl }}{{ image.path }}" data-original-src="{{ site.baseurl }}{{ image.path | replace: 'thumb', 'full' }}" data-original-src-width="">
+
+        </div>
+      {% endif %}
+  {% endfor %}
+  </div>
+    </div>
 </article>

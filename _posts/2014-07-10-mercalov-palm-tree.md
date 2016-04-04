@@ -2,6 +2,7 @@
 layout: post
 title: Mercalov's Palm Tree
 date: 2015-04-01
+folder: mercalovpalm
 ---
 *Summer 2014*
 
