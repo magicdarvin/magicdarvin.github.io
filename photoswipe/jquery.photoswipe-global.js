@@ -4390,7 +4390,7 @@ function PhotoSwipeFactory($) {
             d.resolve(wh_value);
         } else {
             $('<img>').on('load', function () {
-                d.resolve(this[wh]);
+                d.resolve(this[wh]*5);
             }).attr('src', $img.attr('src'));
         }
 

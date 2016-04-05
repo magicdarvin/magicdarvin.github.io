@@ -13,11 +13,10 @@ layout: default
             <div class="gallery">
             {% for image in site.static_files %}
                 {% if image.path contains post.thumbfolder %}
-
                 <div class="gallery-sizer"></div>
-                  <div class="gallery-item" style="margin-bottom: 10px; background:yellow;">
-                    <img src="{{ site.baseurl }}{{ image.path }}" data-original-src="{{ site.baseurl }}{{ image.path | replace: 'thumb', 'full' }}">
-</a>
+                  <div class="gallery-item">
+                    <a href="{{ site.baseurl }}{{ image.path | replace: 'thumb', 'full' }}">
+                    <img src="{{ site.baseurl }}{{ image.path }}"></a>
                   </div>
                 {% endif %}
             {% endfor %}
