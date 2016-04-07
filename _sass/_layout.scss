@@ -435,7 +435,7 @@ display:none;
 
 .lazycontainer {
 width: 60%;
-margin-bottom: 5px;
+margin-bottom: 10px;
 
 @include media-query($on-palm) {
   width: 100%;
