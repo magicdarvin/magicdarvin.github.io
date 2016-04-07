@@ -435,9 +435,16 @@ display:none;
 
 .lazycontainer {
 width: 60%;
-margin-bottom: 10px;
+margin-bottom: 5px;
 
 @include media-query($on-palm) {
   width: 100%;
 }
+}
+
+.audio {
+  @include media-query($on-palm) {
+    margin-top:5px;
+    margin-bottom: 5px;
+  }
 }

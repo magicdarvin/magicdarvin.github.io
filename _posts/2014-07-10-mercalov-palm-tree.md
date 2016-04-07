@@ -13,5 +13,5 @@ The work pretends to be a nomadic exhibition made by Donetsk Regional Museum of 
 From the radio show that is part of the project.
 By pretending to be produced by Donetsk Museum of Local History, the work goes further the issues that are narrated inside and addresses current role of post-soviet museums and how can they possibly deal with ongoing political/social/cultural processes, even by using the same means of production that they already have. By the means of production I understand not only those institutional/financial resources that the museums have but also aesthetics and modes of exhibiting they currently work with.
 
-<audio src="/images/mercalovpalm/mercalov_background_196.mp3" preload="none" controls></audio>    
+<audio class="audio" src="/images/mercalovpalm/mercalov_background_196.mp3" preload="none" controls></audio>    
 radio show for PRAVDA (Helsinki), audio 13:34 (rus)
