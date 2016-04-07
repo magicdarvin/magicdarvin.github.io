@@ -14,10 +14,12 @@ layout: default
       <div class="gallery-sizer"></div>
         <div class="gallery-item">
           <a href="{{ site.baseurl }}{{ image.path | replace: 'thumb', 'full' }}">
-          <img src="{{ site.baseurl }}{{ image.path }}"></a>
+            <img src="{{ site.baseurl }}{{ image.path }}">
+          </a>
         </div>
       {% endif %}
   {% endfor %}
   </div>
     </div>
+    <div class="homepage"><a href="{{ site.url }}">&#8592 homepage</a></div>
 </article>

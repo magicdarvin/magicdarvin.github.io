@@ -14,7 +14,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Member of the co-operative for creative reseach "Krasnaya Shpana" (Hamburg-Kyiv-Moscow) and Tawaaniya co-operative (Beirut-Istanbul-Kyiv-New-York)
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+permalink:    /:title
+# paginate:     3
+#
+# gems:
+#   - jekyll-paginate

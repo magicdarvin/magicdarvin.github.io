@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="home">
   <ul class="post-list">
     {% for post in site.posts %}
@@ -27,3 +26,18 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+<!-- <div class="pagination">
+  {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">&#8592 previous</a>
+    {% else %}
+      <span class="pagination-item disabled">previous</span>
+    {% endif %}
+    <span class="page_number ">(page {{ paginator.page }} of {{ paginator.total_pages }})</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">next &#8594</a>
+    {% else %}
+      <span class="pagination-item disabled">next</span>
+    {% endif %}
+</div> -->
+
+<!-- <div class="homepage"><a href="#top">&#8593 to top</a></div> -->
