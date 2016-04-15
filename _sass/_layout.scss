@@ -249,7 +249,7 @@ margin-top: 15px;
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit/2 0 $spacing-unit 0;
 }
 
 .page-heading {
@@ -447,4 +447,40 @@ margin-bottom: 5px;
     margin-top:5px;
     margin-bottom: 5px;
   }
+}
+
+// MEssing with tables
+
+.post-content {
+  overflow-x: auto;
+
+}
+.post-content table {
+@include media-query($on-palm) {
+  font-size: $small-font-size - 2px;
+
+}
+
+}
+.post-content td {
+border-bottom:dotted 1px black;
+padding-right: 5px;
+// border-right:dotted 1px black;
+}
+
+#applications {
+  font-size: $small-font-size;
+
+& .post-link  {
+  font-size: $base-font-size;
+}
+@include media-query($on-palm) {
+  overflow-x: auto;
+  margin-bottom: 0;
+
+& table{
+  // width: 150%;
+}
+}
+
 }
