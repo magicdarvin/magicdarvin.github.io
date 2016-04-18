@@ -2,9 +2,8 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
   <header class="post-link">
-  {{ page.title }}
+    {{ page.title }}
   </header>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
@@ -21,5 +20,7 @@ layout: default
   {% endfor %}
   </div>
     </div>
-    <div class="homepage"><a href="{{ site.url }}">&#8592 homepage</a></div>
+    <div class="homepage">
+      <a href="{{ site.url }}">&#8592 homepage</a>
+    </div>
 </article>

@@ -477,10 +477,31 @@ padding-right: 5px;
 @include media-query($on-palm) {
   overflow-x: auto;
   margin-bottom: 0;
-
-& table{
-  // width: 150%;
+  & table{
+    // width: 150%;
+    }
+  }
 }
-}
 
+.emc {
+position: absolute;
+top:0;
+left: $content-width + 15px;
+// right:10%;
+width:143px;
+max-width:150px;
+text-align:center;
+font-size:10px;
+margin-bottom: $spacing-unit;
+  @include media-query($on-laptop + 158px) {
+    position: relative;
+    float:right;
+    left:auto;
+    right:40%;
+    width:100%;
+  }
+  @include media-query($on-palm) {
+    right:30%;
+
+  }
 }
