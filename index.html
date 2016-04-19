@@ -11,7 +11,7 @@ layout: default
           <div class="post-content" itemprop="articleBody">
             {% assign truncatedContent = '' %}
 	    {% assign rows = my_page.content | split:'</tr>' %} {% for paragraph in rows limit:4 %} {{ paragraph }} {% endfor %}
-	    </table> <a style="padding-left:4px" href="{{ my_page.url | prepend: site.baseurl }}"><i>more</i></a> </div> </li> 
+	    </table> <a style="padding-left:4px" href="{{ my_page.url | prepend: site.baseurl }}"><i>more</i></a> </div> </li>
       {%endif %} {% endfor %}
 
     {% for post in site.posts %}

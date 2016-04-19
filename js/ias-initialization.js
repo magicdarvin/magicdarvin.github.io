@@ -35,3 +35,28 @@ ias.on('rendered', function() {
   });
 
 })
+
+
+// Unveil and lazyLoad
+$(document).ready(function() {
+$("img").unveil();
+});
+
+$("img").load(function() {
+  masonry_update();
+  var slideSelector = 'a',
+  options     = {bgOpacity: 0.8, closeOnScroll: false, shareEl: false, clickToCloseNonZoomable: false},
+  events      = {};
+
+  $('.gallery').photoSwipe(slideSelector, options, events);
+  $('.gallery').photoSwipe('update');
+});
+
+function masonry_update() {
+  var $works_list = $('.gallery');
+  $works_list.imagesLoaded(function(){
+      $works_list.masonry({
+          itemSelector: '.gallery-item',　
+      });
+  });
+}
