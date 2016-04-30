@@ -2,6 +2,7 @@
 layout: post
 title:  Deideologization
 date:   2014-05-02
+tags: cc
 thumbfolder: deideologizationthumb
 ---
 *by [Illia Yakovenko]({{ site.baseurl }}/yakovenko)   

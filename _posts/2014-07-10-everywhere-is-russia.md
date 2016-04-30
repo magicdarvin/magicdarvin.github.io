@@ -2,6 +2,7 @@
 layout: post
 title: Everywhere is Russia
 date: 2015-03-01
+tags: cc
 ---
 *by [Illia Yakovenko]({{ site.baseurl }}/yakovenko)   
 Spring 2014*    
