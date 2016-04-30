@@ -4,7 +4,7 @@ title: Moscow Experimental School for Gender Studies
 date: 2014-12-02
 thumbfolder: genderschoolthumb
 ---
-*with Maria Dudko, Pavel Ovchinnikov   
+*Maria Dudko, Pavel Ovchinnikov, [Illia Yakovenko]({{ site.baseurl }}/yakovenko)     
 August 1 – November 1, 2013    
 social sculpture*
 

@@ -4,7 +4,7 @@ title: Gender in an Hour (postponed)
 date: 2015-01-01
 thumbfolder: genderinanhourthumb
 ---
-*with: Pavel Ovchinnikov    
+*Pavel Ovchinnikov, [Illia Yakovenko]({{ site.baseurl }}/yakovenko)       
 socially engaged, participatory, pedagogy based art project*
 
 Is it possible to explain to a group of random people in just one gathering what is Gender and what relation does it have to their life? To affect a person in such a way, so s/he questioned its own identity and tried to understand itself in the relation to the surrounding context? Purged the line between personal and political? Every week we go out on the streets bearing an aim to gather a group of random people. We locate ourselves in different public spaces carrying the cardboards where “Gender in an hour” is written. With everyone who demonstrates his/her interest we arrange a meeting and gather afterwards as a group at prearranged time and place. Most of the visitors see each other at the first time. We have near an hour to hold an exercise, that will be an answer to raised above questions.   

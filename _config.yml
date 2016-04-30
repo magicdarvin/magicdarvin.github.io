@@ -23,4 +23,5 @@ permalink:    /:title
 # paginate:     3
 #
 # gems:
+#   - jekyll-sitemap
 #   - jekyll-paginate

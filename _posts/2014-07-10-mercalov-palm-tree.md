@@ -4,7 +4,8 @@ title: Mercalov's Palm Tree
 date: 2015-04-01
 thumbfolder: mercalovpalmthumb
 ---
-*Summer 2014*
+*by [Illia Yakovenko]({{ site.baseurl }}/yakovenko)   
+Summer 2014*
 
 Installation by Donetsk Regional Museum of Local History, mini-exhibition on tour (St. Petersburg)
 

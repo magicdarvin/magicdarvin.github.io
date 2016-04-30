@@ -4,7 +4,7 @@ layout: default
 <div class="home">
   <ul class="post-list">
 
-    {% for my_page in site.pages %}
+    <!-- {% for my_page in site.pages %}
     {% if my_page.title contains 'Application' %}
       <li id="applications">
           <a class="post-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
@@ -12,7 +12,7 @@ layout: default
             {% assign truncatedContent = '' %}
 	    {% assign rows = my_page.content | split:'</tr>' %} {% for paragraph in rows limit:4 %} {{ paragraph }} {% endfor %}
 	    </table> <a style="padding-left:4px" href="{{ my_page.url | prepend: site.baseurl }}"><i>more</i></a> </div> </li>
-      {%endif %} {% endfor %}
+      {%endif %} {% endfor %} -->
 
     {% for post in site.posts %}
       <li>
