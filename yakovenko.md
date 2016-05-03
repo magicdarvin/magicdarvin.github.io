@@ -2,9 +2,9 @@
 layout: page
 title:  Illia Yakovenko
 ---
-Places: Mariupol, Donetsk, Moscow, Beirut, Kyiv.
-Institutions: ICA Moscow, Chto Delat's School for Engaged Art, Ashkal Alwan HWP program.
-Member of the co-operative for creative reseach "Krasnaya Shpana" (Hamburg-Kyiv-Moscow) and Tawaaniya co-operative (Beirut-Istanbul-Kyiv-New-York)   
+Places: Mariupol, Donetsk, Moscow, Beirut, Kyiv.   
+Institutions: ICA Moscow, Chto Delat's School for Engaged Art, Ashkal Alwan's HWP program.   
+Member of the co-operative for creative reseach "Krasnaya Shpana" (Hamburg–Kyiv–Moscow) and Tawaaniya co-operative (Beirut–Istanbul–Kyiv–New-York).   
 <br />
 
 **Applications**   
