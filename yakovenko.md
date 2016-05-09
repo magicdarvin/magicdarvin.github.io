@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  Illia Yakovenko
 ---
 Places: Mariupol, Donetsk, Moscow, Beirut, Kyiv.   
