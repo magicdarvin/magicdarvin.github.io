@@ -2,6 +2,7 @@
 layout: post
 title: 389-FL
 date: 2014-04-02
+thumbfolder: 389-FLthumb
 ---
 *2014  
 installation*
