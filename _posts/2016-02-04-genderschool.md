@@ -12,6 +12,6 @@ Moscow Experimental School for Gender Studies is an educational-cum-activist ini
 Our aim is to introduce a series of topics that are often suppressed, to give a chance to speak publicly for those who have no right for doing so in contemporary Russian society. Sex, body – everything that at the first sight looks private – becomes the instrument of manipulation and repression of power, if it is kept silent. We do not want to keep silent.   
 Among the participants: Oleg Aronson, Tatyana Antoshina, Mila Bredikhina, Mika Ela, Andrey Parshikov, Helen Petrovskaya, Irina Zherebkina.
 
-[website](http://gendered-away.tumblr.com/), [facebook](https://www.facebook.com/GenderSchoolMoscow), [youtube](https://www.youtube.com/channel/UCmFSCOfiEX7K7E-dE-xu5UA/videos)
+[website](http://gendered-away-blog.tumblr.com/), [facebook](https://www.facebook.com/GenderSchoolMoscow), [youtube](https://www.youtube.com/channel/UCmFSCOfiEX7K7E-dE-xu5UA/videos)
 
 <div class="lazycontainer"><div class="lazyYT" data-youtube-id="5JTJdbRMFto" data-ratio="16:9">loading...</div></div>
