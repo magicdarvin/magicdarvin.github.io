@@ -5,10 +5,10 @@ date: 2015-04-01
 tags: cc
 thumbfolder: mercalovpalmthumb
 ---
-*by [Illia Yakovenko]({{ site.baseurl }}/yakovenko)   
+*installation by Donetsk Regional Museum of Local History, a mini-exhibition on tour  
+the graduate exhibition at the School of Engaged Art  
+St. Petersbur, Russia  
 Summer 2014*
-
-Installation by Donetsk Regional Museum of Local History, mini-exhibition on tour (St. Petersburg)
 
 The work pretends to be a nomadic exhibition made by Donetsk Regional Museum of Local History that investigates a story of Mercalov’s Palm tree and how it has become a symbol of the Donetsk region. This story, that goes all the way from the end of the 19th century till the revolutionary events in Ukraine, opens a possibility to trace early Russian industrialization and colonization of the periphery, alienation of an artist from his artwork summoned by the logic of capitalist production. It leads us to more recent exploitation of the artwork in favor of the (former) ruling elite and its place in the Ukrainian insurrection.   
 *„We will tell how the palm was created in the end of 19th century, that was a period of the early industrialization in Russia, and about a tragedy of its author, a simple worker, who had a chance to see it exposed only once during his life. You will hear how later in the beginning of the 21st century the image of the palm tree was exploited by the local authorities, namely Victor Yanukovich. In the final part you will know how the palm appeared on barricades following the recent revolutionary events in Ukraine, and we will think if the revolution brought about a resignification, replacing the Despotic Signifier of the palm.”*, – from the radio show that is a part of the project.   

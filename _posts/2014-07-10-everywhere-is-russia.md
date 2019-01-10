@@ -5,7 +5,9 @@ date: 2015-03-01
 tags: cc
 ---
 *by [Illia Yakovenko]({{ site.baseurl }}/yakovenko)   
-Spring 2014*    
+Spring 2014*  
+
+A video essay about the beginning of the war in Ukraine
 
 <div class="lazycontainer"><div class="lazyYT" data-youtube-id="nMzH31ZA1kk" data-ratio="16:9">loading...</div></div>
 video essay, 3:38 (rus)  

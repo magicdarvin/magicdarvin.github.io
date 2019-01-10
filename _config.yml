@@ -8,10 +8,8 @@
 # Site settings
 title: Illia Yakovenko
 email: iykvnk@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Places: Mariupol, Donetsk, Moscow, Beirut, Kyiv.
-  Institutions: ICA Moscow, Chto Delat's School for Engaged Art, Ashkal Alwan HWP program.
-  Member of the co-operative for creative reseach "Krasnaya Shpana" (Hamburg-Kyiv-Moscow) and Tawaaniya co-operative (Beirut-Istanbul-Kyiv-New-York)
+description: > # this means to ignore newlines until "baseurl:" 
+  a precarious cultural worker, a self-proclaimed artist, curator, poet and spectator, an unrecognized cultural diplomat. In his artistic practice, he reexamines the historical, social, economic and political conditions of art production and the influence that state cultural policies have on it. He deals with issues related to history, memory, culture, identity, and their byproducts such as exclusion, othering, marginalization, and stigmatization by means of collective and participatory production of art. He is a member of the Cooperative for Creative Research Krasnaya Shpana and تعاونية artistic cooperative. Lives and works between Kiev and Kyiv.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
