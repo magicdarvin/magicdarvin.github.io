@@ -17,8 +17,8 @@ The creative research practice is aimed to profanate both art and research by en
 The Co-operative for Creative Research Krasnaya Shpana is a nomadic collective that currently consists of three members: Alexey Markin, Olga Shirokostup and Illia Yakovenko who are based in Hamburg, Moscow and Kyiv. The cooperative is focused on variety of problematics, especially on (post/de)colonial issues in Russia and Ukraine. 
 
 **To Whom Does the Avant-Garde Belong? Publication**
-![avantgarde_cover](/images/avantgarde/avatngarde_cover.png)  
-download pdf: En, Ru
+![avantgarde_cover](/images/avantgarde/publication/avatngarde_cover.png)  
+download pdf: [En](/images/avantgarde/publication/ISSUEeng-1.pdf){:target="_blank"}, [Ru](/images/avantgarde/publication/ISSUERus.pdf){:target="_blank"}
 
 **To Whom Does the Avant-Garde Belong? Part 1**  
 *Kampnagel Kulturfabrik  
