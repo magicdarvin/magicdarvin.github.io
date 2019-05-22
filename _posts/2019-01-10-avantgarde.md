@@ -18,7 +18,7 @@ The Co-operative for Creative Research Krasnaya Shpana is a nomadic collective t
 
 **To Whom Does the Avant-Garde Belong? Publication**
 ![avantgarde_cover](/images/avantgarde/publication/avatngarde_cover.png)  
-download pdf: [En](/images/avantgarde/publication/ISSUEeng-1.pdf){:target="_blank"}, [Ru](/images/avantgarde/publication/ISSUERus.pdf){:target="_blank"}
+pdf download: [En](/images/avantgarde/publication/ISSUEeng-1.pdf){:target="_blank"}, [Ru](/images/avantgarde/publication/ISSUERus.pdf){:target="_blank"}
 
 **To Whom Does the Avant-Garde Belong? Part 1**  
 *Kampnagel Kulturfabrik  
